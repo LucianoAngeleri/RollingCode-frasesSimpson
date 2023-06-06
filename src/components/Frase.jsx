@@ -13,7 +13,7 @@ const Frase = ({ personaje }) => {
               <p>{personaje.quote}</p>
             </blockquote>
             <figcaption className="blockquote-footer">
-              {personaje.character} in <cite title="Source Title">The simpson</cite>
+              {personaje.character} x in <cite title="Source Title">The Simpson's</cite>
             </figcaption>
           </figure>
         </Card.Body>
